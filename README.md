@@ -1,3 +1,5 @@
+This repository was created for the Universal Union to demonstrate coding ability.
+
 Visual Samples:
 - Vehicular Shooting System
   - https://medal.tv/games/roblox-studio/clips/iveUIEQcbei0KhBVu/d1337aMBlT4v?invite=cr-MSxnYlUsMTAzNzU1Mjcs
