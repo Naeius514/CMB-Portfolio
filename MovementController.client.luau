@@ -20,7 +20,7 @@ local Players = game:GetService("Players")
 -- Shared Modules 
 local MovementSettings = require(ReplicatedStorage.GlobalSettings.MovementSettings) -- Walk/sprint speed constants
 local ClientResources = require(StarterPlayer.StarterPlayerScripts.ClientResources) -- Shared client-side state table (IsSprinting, IsDashing, etc.)
-local Promise = require(ReplicatedStorage.Packages.Promise) -- Open-source Promise implementation
+local Promise = require(ReplicatedStorage.Packages.Promise) -- Open-source Promise implementation by evaera
 
 -- Shared Variables
 local Character = script.Parent -- The script's parent is the Character model itself
