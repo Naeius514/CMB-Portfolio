@@ -5,23 +5,23 @@
  Visual Samples:
 - Vehicular Shooting System
   - https://medal.tv/games/roblox-studio/clips/iveUIEQcbei0KhBVu/d1337aMBlT4v?invite=cr-MSxnYlUsMTAzNzU1Mjcs
-  - Please see "VehicularShootingSystem.luau" for my specific contribution to this project.
+  - Please see "Standalones\VehicularShootingSystem.luau" for my specific contribution to this project.
 
 - FPS Movement System Prototype
   - https://medal.tv/games/roblox-studio/clips/ivfagylCZAuFhe_dA/d13379wzJxXp?invite=cr-MSx6S1UsMjUyNzAyODMxLA
-  - Please see "FPSGlockClient.luau" for implementation.
+  - Please see "Standalones\FPSGlockClient.luau" for implementation.
 
 - Toolbar System (unfinished) 
   - https://medal.tv/games/roblox/clips/lXb6L5Yiy9TcIKkWE?invite=cr-MSxCb0MsMjUyNzAyODMx&v=25
-  - Please see "InventoryComponent.luau" for client-sided implementation.
+  - Please see "Standalones\InventoryComponent.luau" for client-sided implementation.
 
 - Oceans (Gerstner Wave implementation)
   - https://medal.tv/games/imported-clips/clips/mTzvCrPk1ANdQ5ga8?invite=cr-MSxMYUUsMjUyNzAyODMx&v=25
-  - Please see Ocean.luau for the full client-sided implementation.
+  - Please see Standalones\Oceans.luau for the full client-sided implementation.
 
 - Chibaku Tensei 
   - https://medal.tv/games/imported-clips/clips/mTzmpkTUtgjKS5HUK?invite=cr-MSxUQkksMjUyNzAyODMx&v=27
-  - Please see ChibakuTensei.luau for the full implementation
+  - Please see Standalones\ChibakuTensei.luau for the full implementation
 
 
 Groups that I recently worked for (counting since 2024):
