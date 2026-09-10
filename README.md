@@ -1,4 +1,4 @@
- I began programming in 2019 and most of my understanding comes experimenting with math and different things on Roblox on my own, working on groups, and taking CompSci classes at my local community college.
+ I began programming on Roblox (and in general) in 2019 and most of my understanding comes from experimenting with math and different things on Roblox on my own, working with groups, and taking CompSci classes at my local community college.
  
  Inspired by my experiences with Java, I aim to write modular code and utilize Object-Oriented Programming (composition over inheritance to prevent tight coupling) when possible. I have experience working with development teams using GitHub, CI/CD, and external packages such as Promise, Maid, and ProfileStore.
  
@@ -29,3 +29,10 @@ Groups that I recently worked for (counting since 2024):
   - CITY-17  (https://www.roblox.com/communities/4904885/CMB-The-Universal-Union#!/about)
   - Ferry's UK (https://www.roblox.com/communities/5267880/UK-United-Kingdom#!/about) 
   - Tyrone Shippuden (https://www.roblox.com/communities/9860646/Tyrone-Shippuden#!/about)
+
+I also am familiar with:
+ - JavaScript/Node
+ - Java
+ - Python
+ - SQL
+However, Luau remains the programming language that I have the most extensive experience with.
