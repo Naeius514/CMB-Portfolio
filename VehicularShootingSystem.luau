@@ -1,3 +1,10 @@
+--[=[
+
+    Below is my specific contribution to this project. I did not assist in writing the core functionality for vehicles. 
+    That logic was written by @JohnnyMorganz (https://github.com/JohnnyMorganz/) and @LegitmatelyRyan (https://github.com/LegitimatelyRyan/) for Ferry's UK
+      and is not included in this code sample for privacy reasons.
+]=]
+
 local LookYaw = math.atan2(
     RootPart.CFrame.LookVector.Z,
     RootPart.CFrame.LookVector.X

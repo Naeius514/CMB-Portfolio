@@ -1,3 +1,9 @@
+--[=[
+	run-tests.server.luau
+
+	Use Roblox Jest to start the test suite.
+]=]
+
 local ServerScriptService = game:GetService("ServerScriptService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Jest = require(ReplicatedStorage.Packages.Jest)

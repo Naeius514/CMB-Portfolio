@@ -1,3 +1,11 @@
+--[=[
+
+	Inventory.spec.luau
+
+	Includes unit tests to ensure that the InventoryClass works.
+
+]=]
+
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local JestGlobals = require(ReplicatedStorage.Packages.JestGlobals)
